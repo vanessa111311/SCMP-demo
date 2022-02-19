@@ -28,7 +28,8 @@ Use filters to show the different date format. EX:
 
 5. Responsive (Mobile / Desktop):
 (1). Defining Breakpoints in this case is 480px: @media (max-width: 480px);
-(2). Avoid text overflow (Use text-overflow: ellipsis)
+(2). Avoid text overflow (Use text-overflow: ellipsis).
+(3). Only for upper 320px width (width 320px for the smallest size).
 
 
 ## Project setup
